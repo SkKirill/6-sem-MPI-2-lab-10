@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSU-Labs-git\\6-sem\\PP-RVS-MPI\\2-lab\\10\\LabMPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABAD42E-7F6A-4D4C-9F08-C90C2F1C9613}|LabMPI\\LabMPI.vcxproj|D:\\VSU-Labs-git\\6-sem\\PP-RVS-MPI\\2-lab\\10\\LabMPI\\LabMPI\\LabMPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ABAD42E-7F6A-4D4C-9F08-C90C2F1C9613}|LabMPI\\LabMPI.vcxproj|solutionrelative:LabMPI\\LabMPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabMPI.cpp",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\6-sem\\PP-RVS-MPI\\2-lab\\10\\LabMPI\\LabMPI\\LabMPI.cpp",
+              "RelativeDocumentMoniker": "LabMPI\\LabMPI.cpp",
+              "ToolTip": "D:\\VSU-Labs-git\\6-sem\\PP-RVS-MPI\\2-lab\\10\\LabMPI\\LabMPI\\LabMPI.cpp",
+              "RelativeToolTip": "LabMPI\\LabMPI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T16:28:16.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
